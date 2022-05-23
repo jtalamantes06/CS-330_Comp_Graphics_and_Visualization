@@ -1,5 +1,8 @@
 # CS-330_Comp_Graphics_and_Visualization
 
+&emsp; Throughtout this course, I had to face the challenge of creating and designing 3D models for the first time. I enjoyed and learned a lot from the course that has
+helped me improve my skills in the future.
+
 **How do I approach designing software?**
 
 &emsp; Throughout the course I picked up plenty of skills that has helped me understand how to creat a fully realized 3D world. With my knowledge of C++ I was able to understand how most of the coding worked to render designs. I enjoyed to process of following many of my previous work over to the new projects. Which is a tactic I used to move on to tougher projects. 
@@ -11,3 +14,5 @@
 **How can computer science help me in reaching my goals?**
 
 &emsp; Understanding of computational graphics and visualizations will help me with many future software projects I will have in my courses or in my career path. It expands my knowledge of knowing how graphics are rendered and produced. In the future, I will be working with many software programs and developments that I can use my knowledge and skills that can be applied into making more than a system. In our times, we want to see graphics and designs used in all of our softwares that pop out from other competitors. Understanding how it is done can help me push the limit of graphics and visulizations.
+
+![CS-330 Project](https://user-images.githubusercontent.com/72779181/169883239-a1d3a28f-b6d5-4793-ad3e-4dd85de4571f.png)
