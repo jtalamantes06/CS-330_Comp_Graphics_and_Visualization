@@ -1,0 +1,10 @@
+﻿  3DSceneLight.cpp
+C:\Users\jtala\source\repos\3DSceneLight\3DSceneLight\3DSceneLight.cpp(477,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jtala\source\repos\3DSceneLight\3DSceneLight\3DSceneLight.cpp(592,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jtala\source\repos\3DSceneLight\3DSceneLight\3DSceneLight.cpp(593,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jtala\source\repos\3DSceneLight\3DSceneLight\3DSceneLight.cpp(597,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jtala\source\repos\3DSceneLight\3DSceneLight\3DSceneLight.cpp(598,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jtala\source\repos\3DSceneLight\3DSceneLight\3DSceneLight.cpp(600,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jtala\source\repos\3DSceneLight\3DSceneLight\3DSceneLight.cpp(601,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jtala\source\repos\3DSceneLight\3DSceneLight\3DSceneLight.cpp(609,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  3DSceneLight.vcxproj -> C:\Users\jtala\source\repos\3DSceneLight\x64\Debug\3DSceneLight.exe
